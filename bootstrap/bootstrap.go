@@ -7,8 +7,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/dodizzle/chef"
-	"github.com/dodizzle/ostack"
+	"github.com/dodizzle/bootstrap/chef"
+	"github.com/dodizzle/bootstrap/ostack"
 	"github.com/rackspace/gophercloud"
 	"github.com/rackspace/gophercloud/openstack"
 )
